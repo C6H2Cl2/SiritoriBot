@@ -1,0 +1,3 @@
+# SiritoriBot
+
+しりとり用DiscordBot
